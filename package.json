@@ -1,7 +1,7 @@
 {
-  "name": "hello-node",
+  "name": "random-emoji-favicon-sample",
   "version": "0.0.1",
-  "description": "A simple Node app built on fastify, instantly up and running.",
+  "description": "This sample is the page to show emoji randomly as the favicon.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
